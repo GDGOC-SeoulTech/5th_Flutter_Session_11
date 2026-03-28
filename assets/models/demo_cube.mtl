@@ -1,0 +1,8 @@
+﻿# Material for the study cube
+newmtl StudyMaterial
+Ka 0.10 0.15 0.22
+Kd 0.17 0.66 0.94
+Ks 0.25 0.30 0.35
+Ns 25.0
+d 1.0
+illum 2

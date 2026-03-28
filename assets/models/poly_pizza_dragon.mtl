@@ -1,0 +1,9 @@
+# Material data converted from Poly Pizza GLB
+newmtl lambert2SG
+Ka 0.250000 0.250000 0.250000
+Kd 1.000000 1.000000 1.000000
+Ks 0.150000 0.150000 0.150000
+Ns 12.000000
+d 1.0
+illum 2
+map_Kd Tex_Dragon.png
